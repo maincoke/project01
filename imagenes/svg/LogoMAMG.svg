@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="LogoMAMG.svg">
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect5327"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9127879"
+     inkscape:cx="141.31009"
+     inkscape:cy="1014.8127"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="777"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3738"
+       transform="translate(-0.22351545,-4.3809439)"
+       style="fill:#000000;fill-opacity:1;stroke:url(#Strips1_1);stroke-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3719"
+         d="m 9.9515249,16.964087 v 30.053606 l 4.9757621,5.075277 0.09952,-20.002565 4.975762,9.852009 4.975762,-9.852009 -0.09952,20.002565 5.075278,-5.174794 V 17.063602 l -9.951525,19.90305 z"
+         style="fill:#000000;stroke:url(#Strips1_1);stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3719-9"
+         d="m 12.760459,28.70547 v 25.013722 l 3.677303,4.224172 0.07355,-16.648207 3.677303,8.199863 3.677303,-8.199863 -0.07355,16.648207 3.75085,-4.307 V 28.788296 L 20.18861,45.353675 Z"
+         style="fill:#000000;stroke:url(#Strips1_1);stroke-width:0.20750962px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    </g>
+    <path
+       style="stroke-width:0.37612063"
+       d=""
+       id="path3742"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.75555556px;line-height:3.96875px;font-family:Haettenschweiler;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:Haettenschweiler;font-stretch:normal;font-variant:normal;"
+       x="31.057205"
+       y="42.422714"
+       id="text3756"><tspan
+         sodipodi:role="line"
+         id="tspan3754"
+         x="31.057205"
+         y="50.083458"
+         style="stroke-width:0.26458332;-inkscape-font-specification:Haettenschweiler;font-family:Haettenschweiler;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:19.75555556px;" /></text>
+    <path
+       style="fill:#000000;stroke-width:0.40887338"
+       d=""
+       id="path3800"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111111px;line-height:3.96875px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="31.883116"
+       y="38.755859"
+       id="text6059"><tspan
+         sodipodi:role="line"
+         id="tspan6057"
+         x="31.883116"
+         y="46.614811"
+         style="stroke-width:0.26458332;font-size:14.11111111px;" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7555542px;line-height:3.96875px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.066412"
+       y="34.214104"
+       id="text6063"><tspan
+         sodipodi:role="line"
+         id="tspan6061"
+         x="30.066412"
+         y="34.214104"
+         style="font-size:12.69999981px;stroke-width:0.26458332">arlon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.4925518px;line-height:4.44963408px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29664224"
+       x="26.913239"
+       y="47.219936"
+       id="text6067"
+       transform="scale(1.1211676,0.89192731)"><tspan
+         sodipodi:role="line"
+         id="tspan6065"
+         x="26.913239"
+         y="47.219936"
+         style="stroke-width:0.29664224">alagón</tspan></text>
+  </g>
+</svg>
