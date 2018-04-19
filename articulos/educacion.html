@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <meta name="author" content="Marlon A. Malagon G.">
+    <meta name="description" content="Hoja de Vida: Marlon A. Malagon G.">
+    <title>Resumen Curricular - Marlon Malag&oacute;n</title>
+</head>
+
+<body>
+    <!-- *** Encabezado de Página *** -->
+    <header title="Logotipo y Datos personales">
+        <svg width="200px" height="150px">
+                        <image xlink:href="../imagenes/svg/LogoMAMG.svg" width="200px" height="150px" x="0" y="0"></image>             
+                    </svg>
+        <h1>Hoja de Vida - Resumen Curricular</h1>
+        <h2>Marlon Andr&eacute; Malag&oacute;n G&oacute;mez</h2>
+        <h3>Venezuela, 07-08-1976</h3>
+    </header>
+
+    <!-- *** Menú de Navegación *** -->
+    <nav>
+        <p title="Men&uacute; Principal">
+            <a href="../index.html" title="P&aacute;gina Inicial">Inicio |</a>
+            <a href="educacion.html" title="Educaci&oacute;n y adiestramiento">Educaci&oacute;n |</a>
+            <a href="experiencia.html" title="Experiencia Laboral">Experiencia </a>
+        </p>
+    </nav>
+
+    <!-- *** Contenido de Información acerca de Educación *** -->
+    <article>
+        <h2 title="Educaci&oacute;n y adiestramiento">Educaci&oacute;n</h2>
+        <table title="T&iacute;tulos, certificados y cursos" border="1">
+            <tr>
+                <th>A&ntilde;o</th>
+                <th>Instituci&oacute;n</th>
+                <th>Lugar</th>
+                <th>¿Culmin&oacute;?</th>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td>Escuela de Inform&aacute;tica</td>
+                <td>Maracay</td>
+                <td>Si</td>
+            </tr>
+            <tr>
+                <td>2015</td>
+                <td>Emprevet, S.A.</td>
+                <td>Maracay</td>
+                <td>Si</td>
+            </tr>
+            <tr>
+                <td>2016</td>
+                <td>CEDAF, C.A.</td>
+                <td>Caracas</td>
+                <td>Si</td>
+            </tr>
+            <tr>
+                <td>2018</td>
+                <td>Next University</td>
+                <td>Bogot&aacute;</td>
+                <td>No</td>
+            </tr>
+        </table>
+    </article>
+
+    <!-- *** Formulario para agregar estudios *** -->
+    <section>
+        <form action="" autocomplete="on" name="formulario_educacion">
+            <legend>
+                <h3>Agregar Estudios</h3>
+            </legend>
+            <label for="educa_ano" title="A&ntilde;o de estudio"><strong>A&ntilde;o:</strong></label>
+            <input type="month" name="educa_ano" min="1990-01" max="2018-12" size="5px"> <br><br>
+            <!--  ******************************************************************************
+                        // En esta parte solicité ayuda del tutor café (David Uribe) quién me indicó
+                        // por medio de mi sugerencia y opinión que este dato -Año- pudiese ser agregado
+                        // de esta manera, ya que la forma en que se describe en la tarea de evaluación 
+                        // la consideré ortodoxa ya que no define muy bien los datos al poner muchas tags
+                        // <option> para seleccionar el año (mas líneas de codigo innecesarias!). 
+                        // Aunque con algunos comandos de JS puede hacerse!, 
+                        // Pero se que eso no es tema de este curso!
+                        <select name="educa_ano">
+                            <option value="2000">2000</option> <option value="2001">2001</option>
+                            <option value="2002">2002</option> <option value="2003">2003</option>
+                            <option value="2004">2004</option> <option value="2005">2005</option>
+                            ................> 
+                        </select> <br><br>
+                        *********************************************************************************
+                    -->
+            <label for="educa_instituto" title="Instituto Educativo"><strong>Instituci&oacute;n:</strong></label>
+            <input type="text" name="educa_instituto" maxlength="60" size="30px" placeholder="Ej:Next University" required> <br><br>
+            <label for="educa_lugar" title="Ciudad de estudios"><strong>Lugar:</strong></label>
+            <input type="text" name="educa_lugar" maxlength="25" size="15px"> <br><br>
+            <label for="educa_culmina" title="¿Estudio culminado?"><strong>¿Culmin&oacute;?:</strong></label>
+            <input type="radio" name="educa_culmina"> Si
+            <input type="radio" name="educa_culmina"> No <br><br>
+            <input type="submit" value="Agregar" id="enviar">
+        </form>
+    </section>
+
+    <!-- *** Pie de Página con Información de Contacto *** -->
+    <footer>
+        <p>
+            E-mail: <a href="mailto:maincoke@hotmail.com">maincoke@hotmail.com</a> | Twitter: @maincoke | LinkedIn | Instagram: @maincoke <br> Tel&eacute;fono: +57-1-7468347
+        </p>
+        <p>Dise&ntilde;ado y Desarrollado por Marlon Malagon - Derechos Reservados &copy;</p>
+    </footer>
+</body>
+
+</html>
